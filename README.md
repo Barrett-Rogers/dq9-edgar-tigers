@@ -12,7 +12,6 @@ The fields that you will focus on are as follows:
  * security_description
  * cusip_id
  * isin_id
- * industry_exposure
  * original_face_amount
  * maturity_date
  * coupon_type_code
